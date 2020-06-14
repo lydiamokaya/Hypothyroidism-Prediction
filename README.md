@@ -32,7 +32,10 @@ Decision Trees: Random Forests , Ada Boosted Trees , Gradient Boosted Trees
 
 Support Vector Machines: Kernel = polynomial , linear , rbf
 
-Conclusion
+### Conclusion
+Our conclusion is  that all our models performed well since they all had low RMSE and accuracy scores of above 90%. But since our analysis is on thyroid patients we would like to go with the best score since we dealing with human life. Hence in decision trees we would recommend the Gradient boosting model while in the SVM we go with the linear kernel for best predictions.
+
+
 
 ## e) Data Relevance
 Source [link]
